@@ -12,6 +12,17 @@ Sociopedia is a social media application where users can share posts, manage fri
 - `server/` - Backend code
 - `client/` - Frontend code
 
+## Snapshots
+Here are some snapshots of the application:
+
+### Sign up Page
+![Sign up Page Dark](client\public\assets\ProjectSnapshots\SignUpPageDark.png)
+![Sign up Page Dark](client\public\assets\ProjectSnapshots\SignUpPageLight.png)
+
+### Login Page
+![Login Page Dark](client\public\assets\ProjectSnapshots\LoginPageDark.png)
+![Login Page Light](client\public\assets\ProjectSnapshots\LoginPageLight.png)
+
 ## Setup Instructions
 
 For detailed setup instructions, refer to the respective README files:
