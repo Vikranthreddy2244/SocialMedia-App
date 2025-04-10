@@ -12,6 +12,13 @@ Sociopedia is a social media application where users can share posts, manage fri
 - `server/` - Backend code
 - `client/` - Frontend code
 
+## Setup Instructions
+
+For detailed setup instructions, refer to the respective README files:
+
+- [Backend Setup Instructions](server/README.md)
+- [Frontend Setup Instructions](client/README.md)
+
 ## Snapshots
 Here are some snapshots of the application:
 
@@ -30,11 +37,4 @@ Here are some snapshots of the application:
 ### Post Feed
 ![Post Feed Dark](client/public/assets/ProjectSnapshots/HomePageDark.png)
 ![Post Feed Light](client/public/assets/ProjectSnapshots/HomePageLight.png)
-
-## Setup Instructions
-
-For detailed setup instructions, refer to the respective README files:
-
-- [Backend Setup Instructions](server/README.md)
-- [Frontend Setup Instructions](client/README.md)
 
