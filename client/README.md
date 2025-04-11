@@ -1,6 +1,6 @@
-# Frontend - Sociopedia
+# Frontend - SocioMedia
 
-This is the frontend of the Sociopedia application, built with React and Material-UI.
+This is the frontend of the SocioMedia application, built with React and Material-UI.
 
 ## Features
 - User authentication (login/register)

@@ -1,6 +1,6 @@
-# Backend - Sociopedia
+# Backend - SocioMedia
 
-This is the backend of the Sociopedia application, built with Node.js, Express, and MongoDB.
+This is the backend of the SocioMedia application, built with Node.js, Express, and MongoDB.
 
 ## Features
 - User authentication (register and login)

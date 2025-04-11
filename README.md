@@ -1,6 +1,6 @@
-# Sociopedia
+# SocioMedia
 
-Sociopedia is a social media application where users can share posts, manage friends, and interact with others. It consists of a **frontend** built with React and a **backend** built with Node.js and Express.
+SocioMedia is a social media application where users can share posts, manage friends, and interact with others. It consists of a **frontend** built with React and a **backend** built with Node.js and Express.
 
 ## Features
 - User authentication
